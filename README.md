@@ -1,0 +1,2 @@
+# cdn
+gachaduel cdn
